@@ -19,6 +19,7 @@ This project demonstrates an AI Agent for IT Ticket Resolution that simulates au
 - **Demo-Ready**: Fully working code to showcase AI-driven ITOps automation.
 
 ## 🏗️ Architecture
+```bash
 main.py
 └─ SupervisorAgent
 ├─ monitors logs
@@ -31,6 +32,7 @@ main.py
 text- **Technologies used**: Python, LangChain, OpenAI, python-dotenv.
 - **Optional storage**: PostgreSQL (mocked actions for demo).
 - **Virtual environment**: Isolated Python venv.
+```
 
 ## 🛠️ Installation
 
@@ -55,7 +57,7 @@ echo 'OPENAI_API_KEY="your_openai_api_key_here"' > .env
 
  ```
 
-##Set OpenAI API key:
+## Set OpenAI API key:
  ```bash
 Create a .env file in the root folder:
 textOPENAI_API_KEY=your_api_key_here
@@ -81,7 +83,7 @@ Monitoring complete.
 ```
 
 ## 📂 Project Structure
-
+```bash
 textai-itops-agent/
 ├─ agents/
 │  ├─ supervisor_agent.py   # Supervises log monitoring and orchestrates actions
@@ -91,7 +93,7 @@ textai-itops-agent/
 ├─ requirements.txt         # Python dependencies
 ├─ .env                     # OpenAI API key
 └─ README.md
-
+```
 
 ## 🔧 How It Works
 
