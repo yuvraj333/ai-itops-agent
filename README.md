@@ -29,7 +29,8 @@ main.py
 ├─ checks KnowledgeAgent KB
 ├─ uses OpenAI LLM for unknown issues
 └─ returns suggested fixes
-text- **Technologies used**: Python, LangChain, OpenAI, python-dotenv.
+
+- **Technologies used**: Python, LangChain, OpenAI, python-dotenv.
 - **Optional storage**: PostgreSQL (mocked actions for demo).
 - **Virtual environment**: Isolated Python venv.
 ```
@@ -134,7 +135,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - OpenAI for the GPT models
 - LangChain team for the agent framework
