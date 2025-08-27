@@ -1,0 +1,5 @@
+{
+  "Database connection failed": "Restart PostgreSQL service",
+  "High memory usage detected": "Clear cache and optimize processes",
+  "Disk space low": "Delete temp files or increase disk capacity"
+}

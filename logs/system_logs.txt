@@ -1,0 +1,4 @@
+[INFO] 2025-08-27 10:00:01 - Web server running
+[ERROR] 2025-08-27 10:01:23 - Database connection failed
+[WARNING] 2025-08-27 10:02:10 - High memory usage detected
+[ERROR] 2025-08-27 10:03:45 - Disk space low
