@@ -28,7 +28,6 @@ main.py
 ├─ checks KnowledgeAgent KB
 ├─ uses OpenAI LLM for unknown issues
 └─ returns suggested fixes
-
 text- **Technologies used**: Python, LangChain, OpenAI, python-dotenv.
 - **Optional storage**: PostgreSQL (mocked actions for demo).
 - **Virtual environment**: Isolated Python venv.
