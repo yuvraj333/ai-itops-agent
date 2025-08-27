@@ -10,4 +10,4 @@ class ActionAgent:
             fix = f"LLM suggests: {issue}"  # Fallback from LLM
         print(f"Issue: {issue} | Suggested Action: {fix}")
         # Mock execution
-        print(f"Executing: {fix} ✅")
+        print(f"Executing: {fix} ... Done.")
